@@ -44,7 +44,8 @@ Aqui você vai configura sua chave de autenticação "Key", "Issuer", "Audience"
 I created this username and password for authentication
 
 criei esse usuario e senha para autenticação.          
-![image](https://github.com/antoniopantoja/ApiRest.netCore6StoredProcedure/assets/138262828/6d778438-57f6-43ab-8f4e-82cce3711598)
+![image](https://github.com/antoniopantoja/ApiRest.netCore6StoredProcedure/assets/138262828/3ab7322e-0767-4a0c-87ea-8313a7de70f5)
+
 
         {
         "username": "admin",
