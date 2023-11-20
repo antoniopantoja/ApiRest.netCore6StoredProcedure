@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Publicacao\API-DesafioNET</_PublishTargetUrl>
+    <History>True|2023-11-19T14:57:07.1105766Z;True|2023-11-17T01:10:51.0881427-03:00;True|2023-11-06T09:05:21.6652343-03:00;True|2023-11-04T20:49:40.6459469-03:00;True|2023-11-04T20:49:31.1399110-03:00;True|2023-11-04T16:49:18.1247184-03:00;True|2023-09-03T15:46:04.3960466-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
