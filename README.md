@@ -30,10 +30,10 @@ Swagger APIs built on ASP.NET Core
 
 ### Configuração
 
-Open the appsettings.json file and change the database information, the authentication key and the network path where we save the files
+Open the [appsettings.json](https://github.com/antoniopantoja/ApiRest.netCore6StoredProcedure/blob/main/API-DesafioNet/API-DesafioNet/appsettings.json) file and change the database information, the authentication key and the network path where we save the files
 Here you will configure your authentication key "Key", "Issuer", "Audience" here in this project I made an example.
 
-Abra o arquivo appsettings.json e vamos altera as informações de banco de dados a chave de autenticação e caminho de rede aonde vamos salva os aquivos
+Abra o arquivo [appsettings.json](https://github.com/antoniopantoja/ApiRest.netCore6StoredProcedure/blob/main/API-DesafioNet/API-DesafioNet/appsettings.json) e vamos altera as informações de banco de dados a chave de autenticação e caminho de rede aonde vamos salva os aquivos
 Aqui você vai configura sua chave de autenticação "Key", "Issuer", "Audience" aqui nesse projeto fiz um exemplo. 
 
         "Jwt":{
