@@ -25,7 +25,8 @@ Swashbuckle.AspNetCore versão: 6.5.0 nuget
 
 Swagger APIs built on ASP.NET Core
 
-![image](https://github.com/antoniopantoja/ApiRest.netCore6StoredProcedure/assets/138262828/dec7a39a-c3b1-4f0c-923c-23eaf8c2a320)
+![image](https://github.com/antoniopantoja/ApiRest.netCore6StoredProcedure/assets/138262828/74f28773-00ed-4b65-b8fe-d78d3135f1cd)
+
 
 ### Configuração
 
@@ -44,7 +45,8 @@ Aqui você vai configura sua chave de autenticação "Key", "Issuer", "Audience"
 I created this username and password for authentication
 
 criei esse usuario e senha para autenticação.          
-![image](https://github.com/antoniopantoja/ApiRest.netCore6StoredProcedure/assets/138262828/3ab7322e-0767-4a0c-87ea-8313a7de70f5)
+![image](https://github.com/antoniopantoja/ApiRest.netCore6StoredProcedure/assets/138262828/8ac41ccb-5f1b-4513-ba27-a51667168c43)
+
 
 
         {
